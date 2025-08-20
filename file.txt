@@ -1,2 +1,2 @@
 Changes in Branch A
-New changes in B
+changes in B
